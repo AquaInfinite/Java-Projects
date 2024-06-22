@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "test",
+      "request": "launch",
+      "mainClass": "test",
+      "projectName": "Java Projects_72316957"
+    },
+    {
+      "type": "java",
       "name": "try_and_catch",
       "request": "launch",
       "mainClass": "try_and_catch",
